@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Simple Workout Helper</string>
+    <string name="str_timer_stopped">Timer Stopped</string>
+    <string name="str_status_rest">Rest</string>
+    <string name="str_status_done">Done!</string>
+    <string name="str_status_workout">Workout</string>
+    <string name="str_status_get_ready">Get Ready</string>
+    <string name="sb_timer_running">Timer Currently Running</string>
+    <string name="sb_btn_stop_current">Stop Current</string>
+    <string name="press_again_to_exit">Press back again to exit</string>
+</resources>
